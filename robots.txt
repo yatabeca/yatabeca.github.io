@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yatabeca.github.io/sitemap/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/lar/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/cGw/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/RKS/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/KIL/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/iJw/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/kpc/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/ZSi/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/VYn/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/xym/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/BvX/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/gSP/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/rHp/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/LTv/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/Ufj/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/gHp/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/XxO/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/Vlo/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/BsJ/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/WRf/sitemap_index.yatabeca
+Sitemap: https://yatabeca.github.io/oMg/sitemap_index.yatabeca
